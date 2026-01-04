@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Daniel my alias  is LITTLE 👋
 
 ## About Me
 
@@ -25,9 +25,8 @@ and depend on.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=E-0xD&show_icons=true&theme=radical)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=E-0xD&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-0xD&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 
