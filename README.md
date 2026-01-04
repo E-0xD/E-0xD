@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel my alias  is LITTLE 👋
+# Hi there, my name is Daniel👋
 
 ## About Me
 
